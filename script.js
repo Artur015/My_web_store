@@ -13,7 +13,6 @@ const cartTotalPrice = document.querySelector('.cart-modal__total-price');
 document.addEventListener('DOMContentLoaded', () => {
   console.log('Страница загружена');
   
-  // Загружаем товары
   fetch('./data/products.json')
     .then(response => response.json())
     .then(products => {
