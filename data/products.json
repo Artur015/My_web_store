@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "ELLERY X M'O CAPSULE",
+    "price": 52.00,
+    "image": "./img/foto1.jpeg",
+    "description": "Known for her sculptural takes on traditional tailoring."
+  },
+  {
+    "id": 2,
+    "title": "ELLERY X M'O CAPSULE",
+    "price": 52.00,
+    "image": "./img/foto2.jpeg",
+    "description": "Known for her sculptural takes on traditional tailoring."
+  },
+  {
+    "id": 3,
+    "title": "ELLERY X M'O CAPSULE",
+    "price": 52.00,
+    "image": "./img/foto3.jpeg",
+    "description": "Known for her sculptural takes on traditional tailoring."
+  },
+  {
+    "id": 4,
+    "title": "ELLERY X M'O CAPSULE",
+    "price": 52.00,
+    "image": "./img/foto4.jpeg",
+    "description": "Known for her sculptural takes on traditional tailoring."
+  },
+  {
+    "id": 5,
+    "title": "ELLERY X M'O CAPSULE",
+    "price": 52.00,
+    "image": "./img/foto5.jpeg",
+    "description": "Known for her sculptural takes on traditional tailoring."
+  },
+  {
+    "id": 6,
+    "title": "ELLERY X M'O CAPSULE",
+    "price": 52.00,
+    "image": "./img/foto6.jpeg",
+    "description": "Known for her sculptural takes on traditional tailoring."
+  }
+]
