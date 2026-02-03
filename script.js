@@ -11,7 +11,7 @@ const cartTotalPrice = document.querySelector('.cart-modal__total-price');
 
 
 document.addEventListener('DOMContentLoaded', () => {
-  console.log('Страница загружена');
+  console.log('The page has loaded');
   
   fetch('./data/products.json')
     .then(response => response.json())
@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
       setupEventListeners();
     })
     .catch(error => {
-      console.error('Ошибка загрузки товаров:', error);
+      console.error('Error loading products:', error);
     });
 });
 
@@ -228,8 +228,8 @@ function showNotification(message) {
     notification.style.animation = 'slideOut 0.3s ease';
     setTimeout(() => {
       document.body.removeChild(notification);
-    }, 300);
-  }, 3000);
+    }, 200);
+  }, 1000);
 }
 
 function renderProducts(products) {
